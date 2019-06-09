@@ -1,0 +1,21 @@
+{
+  "name": "studentapp",
+  "version": "1.0.0",
+  "description": "\"App using to Save Student details and Dislplay that details on same page \"",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "install": "^0.12.2",
+    "mongoose": "^5.4.1",
+    "nodemon": "^1.18.9",
+    "npm": "^6.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"piyushkushwah\"",
+  "license": "ISC"
+}
